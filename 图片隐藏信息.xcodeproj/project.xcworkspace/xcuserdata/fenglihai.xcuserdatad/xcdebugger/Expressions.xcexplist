@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[NSImage(HideMsg) decodeImage]:NSImage+HideMsg.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[NSImage(HideMsg) encodeMessage:]:NSImage+HideMsg.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "*(tmp + 2)">
+            </PersistentString>
+            <PersistentString
+               value = "shouldInterpolate">
+            </PersistentString>
+            <PersistentString
+               value = "*(tmp+1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController onClick:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.imageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UIImage(DecodeMsg) encodeMessage:]:UIImage+DecodeMsg.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
